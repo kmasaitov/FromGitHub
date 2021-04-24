@@ -1,0 +1,5 @@
+I just created new repository grom Github.com account and cloned it for my git desktop local
+
+I did clone it by clicking set up in desktop
+
+It cloned our remote to local repo so we can start working locally
